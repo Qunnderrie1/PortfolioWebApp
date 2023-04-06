@@ -10,7 +10,7 @@
 
 # production
 /build
-/hiddenKeys.js
+src/hiddenKeys.js
 
 # misc
 .DS_Store
