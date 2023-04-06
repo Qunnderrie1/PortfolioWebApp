@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.73addf4b.css",
-    "main.js": "/static/js/main.8066b44b.js",
-    "static/media/Me.png": "/static/media/Me.26d7cd69c39f7d3b95b3.png",
-    "static/media/QunnderrieSnelling-Resume.pdf": "/static/media/QunnderrieSnelling-Resume.e235d57f3950ee990c56.pdf",
-    "static/media/Portfolio.PNG": "/static/media/Portfolio.7e52cd5530b37eead101.PNG",
-    "static/media/tictactoe.PNG": "/static/media/tictactoe.12694bcb2214d39ce931.PNG",
-    "static/media/fallingball.jpg": "/static/media/fallingball.4b82fbd3d2b34fd12501.jpg",
-    "static/media/react.png": "/static/media/react.f51c1134d921dafa8687.png",
-    "index.html": "/index.html",
-    "main.73addf4b.css.map": "/static/css/main.73addf4b.css.map",
-    "main.8066b44b.js.map": "/static/js/main.8066b44b.js.map"
+    "main.css": "/PortfolioWebApp/static/css/main.73addf4b.css",
+    "main.js": "/PortfolioWebApp/static/js/main.e2c48f88.js",
+    "static/media/Me.png": "/PortfolioWebApp/static/media/Me.26d7cd69c39f7d3b95b3.png",
+    "static/media/QunnderrieSnelling-Resume.pdf": "/PortfolioWebApp/static/media/QunnderrieSnelling-Resume.e235d57f3950ee990c56.pdf",
+    "static/media/Portfolio.PNG": "/PortfolioWebApp/static/media/Portfolio.7e52cd5530b37eead101.PNG",
+    "static/media/tictactoe.PNG": "/PortfolioWebApp/static/media/tictactoe.12694bcb2214d39ce931.PNG",
+    "static/media/fallingball.jpg": "/PortfolioWebApp/static/media/fallingball.4b82fbd3d2b34fd12501.jpg",
+    "static/media/react.png": "/PortfolioWebApp/static/media/react.f51c1134d921dafa8687.png",
+    "index.html": "/PortfolioWebApp/index.html",
+    "main.73addf4b.css.map": "/PortfolioWebApp/static/css/main.73addf4b.css.map",
+    "main.e2c48f88.js.map": "/PortfolioWebApp/static/js/main.e2c48f88.js.map"
   },
   "entrypoints": [
     "static/css/main.73addf4b.css",
-    "static/js/main.8066b44b.js"
+    "static/js/main.e2c48f88.js"
   ]
 }
