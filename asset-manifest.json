@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioWebApp/static/css/main.73addf4b.css",
-    "main.js": "/PortfolioWebApp/static/js/main.e2c48f88.js",
+    "main.js": "/PortfolioWebApp/static/js/main.c135094b.js",
     "static/media/Me.png": "/PortfolioWebApp/static/media/Me.26d7cd69c39f7d3b95b3.png",
     "static/media/QunnderrieSnelling-Resume.pdf": "/PortfolioWebApp/static/media/QunnderrieSnelling-Resume.e235d57f3950ee990c56.pdf",
     "static/media/Portfolio.PNG": "/PortfolioWebApp/static/media/Portfolio.7e52cd5530b37eead101.PNG",
@@ -10,10 +10,10 @@
     "static/media/react.png": "/PortfolioWebApp/static/media/react.f51c1134d921dafa8687.png",
     "index.html": "/PortfolioWebApp/index.html",
     "main.73addf4b.css.map": "/PortfolioWebApp/static/css/main.73addf4b.css.map",
-    "main.e2c48f88.js.map": "/PortfolioWebApp/static/js/main.e2c48f88.js.map"
+    "main.c135094b.js.map": "/PortfolioWebApp/static/js/main.c135094b.js.map"
   },
   "entrypoints": [
     "static/css/main.73addf4b.css",
-    "static/js/main.e2c48f88.js"
+    "static/js/main.c135094b.js"
   ]
 }
