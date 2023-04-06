@@ -20,7 +20,7 @@ const Projects = () => {
                                 <p>This is my portfolio website. I design and developed this website
                                     using React, Javascript, HTML, & CSS.
                                 </p>
-                                <a href="/" >
+                                <a href="https://qunnderrie1.github.io/PortfolioWebApp/" >
                                 <button className="btn btn-primary">View</button>
                                 </a>
 
