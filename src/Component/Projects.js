@@ -3,6 +3,7 @@ import portfolio from '../Images/Portfolio.PNG'
 import '../App.css';
 import fallingBall from '../Images/fallingball.jpg'
 import tictactoe from '../Images/tictactoe.PNG'
+import todoApp from '../Images/todoApp.jpg'
 
 const Projects = () => {
     return(
@@ -14,48 +15,51 @@ const Projects = () => {
                 <div className="row">
                     <div className="col">
                         <div className="card shadow-lg">
+                        <a href="https://qunnderrie1.github.io/PortfolioWebApp/" >
                         <img src={portfolio}  />
-                            <div className="card-body">
+                        </a>
+                        </div>
+                        <div className="card-body">
                                 <h3>Portfolio</h3>
-                                <p>This is my portfolio website. I design and developed this website
-                                    using React, Javascript, HTML, & CSS.
-                                </p>
-                                <a href="https://qunnderrie1.github.io/PortfolioWebApp/" >
-                                <button className="btn btn-primary">View</button>
-                                </a>
-
                             </div>
-                        </div>
                     </div>
+
+
                     <div className="col">
                         <div className="card shadow-lg">
+                        <a href="https://play.google.com/store/apps/details?id=com.SuperHLStudios.FallingBallMobile" >
                         <img src={fallingBall}  />
-                            <div className="card-body">
-                                <h3>Falling Ball</h3>
-                                <p>This mobile game is avaliable in the google play store. 
-                                </p>
-                                <a href="https://play.google.com/store/apps/details?id=com.SuperHLStudios.FallingBallMobile" >
-                                <button className="btn btn-primary">View</button>
-                                </a>
-
-                            </div>
+                        </a>
                         </div>
+                        <div className="card-body">
+                                <h3>Falling Ball</h3>
+                            </div>
                     </div>
+
+
                     <div className="col">
                         <div className="card shadow-lg">
+                        <a href="https://qunnderrie1.github.io/TicTacToe/" >
                         <img src={tictactoe}  />
-                            <div className="card-body">
-                                <h3>Tic Tac Toe</h3>
-                                <p>This is a web game app. I used HTML, CSS, and Javascript.
-                                </p>
-                                <a href="https://qunnderrie1.github.io/TicTacToe/" >
-                                <button className="btn btn-primary">View</button>
-                                </a>
-
-
-                            </div>
+                        </a>
                         </div>
+                        <div className="card-body">
+                                <h3>Tic Tac Toe</h3>
+                            </div>
                     </div>
+
+
+                    <div className="col">
+                        <div className="card shadow-lg">
+                        <a href="https://qunnderrie1.github.io/ToDoWebApp/" >
+                        <img src={todoApp}  />
+                        </a>
+                        </div>
+                        <div className="card-body">
+                                <h3>ToDo List</h3>
+                            </div>
+                    </div>
+
                 
                 </div>
               

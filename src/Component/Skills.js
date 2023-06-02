@@ -7,6 +7,10 @@ import mysql from '../Images/mysql-logo.png';
 import html from '../Images/html.jpg';
 import css from '../Images/css.png';
 
+import mongodb from '../Images/mongoDB.png';
+import c_sharp from '../Images/c-sharp.png';
+import python from '../Images/Python.png';
+
 
 const Skills = () => {
     return (
@@ -30,9 +34,7 @@ const Skills = () => {
                             <img src={jsImage} />
                             <p>JavaScript</p>
                         </div>
-                        
-                    </div>
-                    <div className="row ">
+
                         <div className="col">
                             <img src={react} />
                             <p>React</p>
@@ -45,7 +47,21 @@ const Skills = () => {
                             <img src={node} />
                             <p>Node.js</p>
                         </div>
+                        <div className="col">
+                            <img src={c_sharp} />
+                            <p>C#</p>
+                        </div>
+                        <div className="col">
+                            <img src={python} />
+                            <p>Python</p>
+                        </div>
+                        <div className="col">
+                            <img src={mongodb} />
+                            <p>MongoDB</p>
+                        </div>
+                        
                     </div>
+                
 
                 </div>
              

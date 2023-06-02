@@ -3,7 +3,7 @@ import '../App.css'
 const Footer = () => {
     return(
         <div className="footer ">
-           <p>Design & Develop by Qunnderrie Snelling </p>
+           <p> &copy; 2023 Qunnderrie Snelling </p>
 
         </div>
     )

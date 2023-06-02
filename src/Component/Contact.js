@@ -1,7 +1,9 @@
 import React, { useRef, useState } from "react";
 import '../App.css'
 import emailjs from '@emailjs/browser';
-import keys from '../hiddenKeys.js'
+import {serviceID , template , public_key } from '../hiddenKeys.js'
+
+
 
 
 
@@ -17,7 +19,7 @@ const Contact = () => {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm(keys.service,keys.template, form.current , keys.public_keys)
+        emailjs.sendForm(serviceID,template, form.current , public_key)
         .then((results) => {
             console.log(results.text);
 
