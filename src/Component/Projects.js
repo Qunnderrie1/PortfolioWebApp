@@ -1,5 +1,5 @@
 import React from "react";
-import portfolio from '../Images/Portfolio.PNG'
+import portfolio from '../Images/portfolio-new.jpg'
 import '../App.css';
 import fallingBall from '../Images/fallingball.jpg'
 import tictactoe from '../Images/tictactoe.PNG'
