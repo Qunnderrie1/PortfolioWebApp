@@ -9,7 +9,7 @@ const Hamburger = ({userClick}) => {
     return(
 
 
-        <div className="Hamburger container ">
+        <div className="hamburger container ">
         <div onClick={userClick} id='hamburger' className="hamburger">
           <div id="line1" className="line1"></div>
           <div id="line2" className="line2"></div>

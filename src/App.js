@@ -13,6 +13,7 @@ function App() {
 
 function getClicks() {
   const mobileMenu = document.getElementById("mobileMenuContainer");
+
   const line1 = document.getElementById('line1');
   const line2 = document.getElementById('line2');
   const line3 = document.getElementById('line3');
@@ -21,10 +22,15 @@ function getClicks() {
   line2.classList.toggle('active');
   line3.classList.toggle('active');
   mobileMenu.classList.toggle("active");
+
+
+
+
+
 }
 
   return (
-    <div className="App container-fluid">
+    <div id='appBody' className="App container-fluid">
       <div className='top-section container-fluid'>
         <Hamburger userClick={getClicks} />
         <MobileMenu />

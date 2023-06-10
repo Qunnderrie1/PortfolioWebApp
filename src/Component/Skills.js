@@ -6,8 +6,7 @@ import react from '../Images/react-icon.png';
 import mysql from '../Images/icons8-mysql-128.png';
 import html from '../Images/html5.png';
 import css from '../Images/css3.png';
-import c_sharp from '../Images/icons8-c-128.png';
-import python from '../Images/icons8-python-128.png';
+
 
 
 const Skills = () => {
@@ -34,8 +33,10 @@ const Skills = () => {
                         </div>
                         <div className="col">
                             <img src={jsImage} />
-                            <p>JavaScript</p>
+                            <p>JavaScript + ES6</p>
                         </div>
+
+                    </div>
 
                         <div className="row">
                             
@@ -59,8 +60,6 @@ const Skills = () => {
                         
                     </div>
                 
-
-                </div>
              
 
             </div>
