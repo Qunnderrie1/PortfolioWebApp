@@ -44,8 +44,7 @@ const Contact = () => {
 
     return(
         <div id="contact" className="contactContainer container ">
-             <div className="divider"></div>
-            <h2>Contact Me</h2>
+            <h2>Let's Chat!</h2>
             {
                     process.env.REACT_APP_PUBLIC_KEY 
                   

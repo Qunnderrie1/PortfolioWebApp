@@ -31,10 +31,9 @@ function getClicks() {
         <NavBar />
         <Header />
       </div>
-
+      <About />
+      <Skills />
       <div className='middleSection container'>
-        <About />
-        <Skills />
         <Projects />
         <Contact />
       </div>

@@ -1,8 +1,8 @@
 import React from "react";
 import '../App.css';
-import twitter from '../Images/twitter.png';
-import linkedIn from '../Images/linkedin.png';
-import gitHub from '../Images/github.png';
+import twitter from '../Images/twitt.png';
+import linkedIn from '../Images/linked.png';
+import gitHub from '../Images/git.png';
 import resumeDownload  from './New_Resume_Qunnderrie.pdf'
 
 const Header = () => {
@@ -17,12 +17,12 @@ const Header = () => {
             <p>Web development is my passion. I am so excited to showcase my projects and skills.</p>
             <div className="socialMediaContainer">
                 <a href="https://twitter.com/QunnderrieDev">
-                <img src={twitter} width="25px" height="25px" /></a>
+                <img src={twitter} width="35px" height="35px" /></a>
                 <a href="https://www.linkedin.com/in/qunnderrie/" >
-                <img src={linkedIn} width="25px" height="25px" />
+                <img src={linkedIn} width="35px" height="35px" />
                 </a>
                 <a href="https://github.com/Qunnderrie1" >
-                <img src={gitHub} width="25px" height="25px" />
+                <img src={gitHub} width="35px" height="35px" />
                 </a>
             </div>
             <a className="resumeBtn" href={resumeDownload} download={resumeDownload}>Resume CV</a>

@@ -4,17 +4,26 @@ import '../App.css'
 
 const About = () => {
     return(
+        
+        <div className="aboutSection container-fluid">
+        <div className="aboutLine"></div>
         <div  id="about" className="aboutContainer container">
-            <div className="divider"></div>
-            <h2>About Me</h2>
-            <div className="aboutText">
-                <p>Hello!, I started off my coding journey as a self-taught developer. After a few months of self-teaching, I decided to join a coding bootcamp as a Full Stack Web Developer.
-                    Currently, I am a recent graduate that have experience using front-end and back-end technologies. I love learning and I'm always open to learn new things.
+            <h2>About.</h2>
 
+            <div className="aboutText">
+                <p className="about-introduction">Hello World! I'm Qunnderrie Snelling a Full Stack Web Developer based out of Columbus, Georgia. I love designing and developing eye-catching, accessible, and user-friendly,
+                    responsive websites and applications.
+                </p>
+                <p className="about-middle">
+                  
+                </p>
+                
+                <p className="about-closing"> I'm excited to make the leap and continue to redefining my skills with a great company.
                 </p>
             </div>
 
         </div>
+     </div>
     )
 }
 

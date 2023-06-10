@@ -1,22 +1,24 @@
 import React from "react";
 import '../App.css'
-import jsImage from '../Images/javascriptImages/icons8-javascript-144.png'
-import node from '../Images/node-js.png';
-import react from '../Images/react.png';
-import mysql from '../Images/mysql-logo.png';
-import html from '../Images/html.jpg';
-import css from '../Images/css.png';
-
-import mongodb from '../Images/mongoDB.png';
-import c_sharp from '../Images/c-sharp.png';
-import python from '../Images/Python.png';
+import jsImage from '../Images/javaimage.png'
+import node from '../Images/icons8-nodejs-128.png';
+import react from '../Images/react-icon.png';
+import mysql from '../Images/icons8-mysql-128.png';
+import html from '../Images/html5.png';
+import css from '../Images/css3.png';
+import c_sharp from '../Images/icons8-c-128.png';
+import python from '../Images/icons8-python-128.png';
 
 
 const Skills = () => {
     return (
+        
+        <div className="skillsSection container-fluid">
+
+     
         <div className="skillsContainer container">
-                 <div className="divider"></div>
-            <h2>MySkills</h2>
+
+            <h2>Skills.</h2>
             <div className="tableSkillsContainer container-fluid">
 
                 <div className="rowContainer container ">
@@ -35,6 +37,9 @@ const Skills = () => {
                             <p>JavaScript</p>
                         </div>
 
+                        <div className="row">
+                            
+
                         <div className="col">
                             <img src={react} />
                             <p>React</p>
@@ -47,18 +52,10 @@ const Skills = () => {
                             <img src={node} />
                             <p>Node.js</p>
                         </div>
-                        <div className="col">
-                            <img src={c_sharp} />
-                            <p>C#</p>
+                    
+
                         </div>
-                        <div className="col">
-                            <img src={python} />
-                            <p>Python</p>
-                        </div>
-                        <div className="col">
-                            <img src={mongodb} />
-                            <p>MongoDB</p>
-                        </div>
+
                         
                     </div>
                 
@@ -68,6 +65,7 @@ const Skills = () => {
 
             </div>
 
+        </div>
         </div>
     )
 }

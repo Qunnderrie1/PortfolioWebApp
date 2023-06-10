@@ -8,8 +8,7 @@ import todoApp from '../Images/todoApp.jpg'
 const Projects = () => {
     return(
         <div id="projects" className="projectsContainer container">
-            <div className="divider"></div>
-            <h2>MyProjects</h2>
+            <h2>Projects.</h2>
             <div className="projects ">
 
                 <div className="row">
