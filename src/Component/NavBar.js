@@ -4,7 +4,7 @@ const NavBar = () => {
     return(
         <nav className="navContainer container">
                
-            <p><span>Q</span>unnderrie</p>
+            <p>{`QUNNDERRIE`}</p>
             <ul>
                 <li>
                     <a href="/" >Home</a>
