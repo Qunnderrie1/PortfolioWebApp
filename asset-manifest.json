@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortfolioWebApp/static/css/main.0eddd152.css",
-    "main.js": "/PortfolioWebApp/static/js/main.5425d3bf.js",
+    "main.css": "/PortfolioWebApp/static/css/main.7461c0cb.css",
+    "main.js": "/PortfolioWebApp/static/js/main.fd1fa08a.js",
     "static/media/Me.png": "/PortfolioWebApp/static/media/Me.26d7cd69c39f7d3b95b3.png",
     "static/media/react-icon.png": "/PortfolioWebApp/static/media/react-icon.c1400a56b9ac0900068f.png",
     "static/media/portfolio-new.jpg": "/PortfolioWebApp/static/media/portfolio-new.3a6b84b72328253da791.jpg",
@@ -12,11 +12,11 @@
     "static/media/fallingball.jpg": "/PortfolioWebApp/static/media/fallingball.4b82fbd3d2b34fd12501.jpg",
     "static/media/git.png": "/PortfolioWebApp/static/media/git.83af39f63b402a823c87.png",
     "index.html": "/PortfolioWebApp/index.html",
-    "main.0eddd152.css.map": "/PortfolioWebApp/static/css/main.0eddd152.css.map",
-    "main.5425d3bf.js.map": "/PortfolioWebApp/static/js/main.5425d3bf.js.map"
+    "main.7461c0cb.css.map": "/PortfolioWebApp/static/css/main.7461c0cb.css.map",
+    "main.fd1fa08a.js.map": "/PortfolioWebApp/static/js/main.fd1fa08a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0eddd152.css",
-    "static/js/main.5425d3bf.js"
+    "static/css/main.7461c0cb.css",
+    "static/js/main.fd1fa08a.js"
   ]
 }
