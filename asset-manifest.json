@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/PortfolioWebApp/static/css/main.7461c0cb.css",
-    "main.js": "/PortfolioWebApp/static/js/main.fd1fa08a.js",
+    "main.js": "/PortfolioWebApp/static/js/main.d225ff81.js",
     "static/media/Me.png": "/PortfolioWebApp/static/media/Me.26d7cd69c39f7d3b95b3.png",
     "static/media/react-icon.png": "/PortfolioWebApp/static/media/react-icon.c1400a56b9ac0900068f.png",
     "static/media/portfolio-new.jpg": "/PortfolioWebApp/static/media/portfolio-new.3a6b84b72328253da791.jpg",
     "static/media/New_Resume_Qunnderrie.pdf": "/PortfolioWebApp/static/media/New_Resume_Qunnderrie.7187322bd65b7a98fb09.pdf",
+    "static/media/GuessTheNumberGame.jpg": "/PortfolioWebApp/static/media/GuessTheNumberGame.c1a178a2f91bed7caf76.jpg",
     "static/media/todoApp.jpg": "/PortfolioWebApp/static/media/todoApp.135cb38638789332b781.jpg",
     "static/media/javaimage.png": "/PortfolioWebApp/static/media/javaimage.ca0609d3fcf05990817c.png",
     "static/media/tictactoe.PNG": "/PortfolioWebApp/static/media/tictactoe.12694bcb2214d39ce931.PNG",
@@ -13,10 +14,10 @@
     "static/media/git.png": "/PortfolioWebApp/static/media/git.83af39f63b402a823c87.png",
     "index.html": "/PortfolioWebApp/index.html",
     "main.7461c0cb.css.map": "/PortfolioWebApp/static/css/main.7461c0cb.css.map",
-    "main.fd1fa08a.js.map": "/PortfolioWebApp/static/js/main.fd1fa08a.js.map"
+    "main.d225ff81.js.map": "/PortfolioWebApp/static/js/main.d225ff81.js.map"
   },
   "entrypoints": [
     "static/css/main.7461c0cb.css",
-    "static/js/main.fd1fa08a.js"
+    "static/js/main.d225ff81.js"
   ]
 }
