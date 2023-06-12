@@ -3,7 +3,7 @@ import '../App.css';
 import twitter from '../Images/twitt.png';
 import linkedIn from '../Images/linked.png';
 import gitHub from '../Images/git.png';
-import resumeDownload  from './New_Resume_Qunnderrie.pdf'
+import resumeDownload  from './Q_Developer_Resume.pdf'
 
 const Header = () => {
 
