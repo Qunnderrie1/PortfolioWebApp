@@ -4,6 +4,7 @@ import '../App.css';
 import fallingBall from '../Images/fallingball.jpg'
 import tictactoe from '../Images/tictactoe.PNG'
 import todoApp from '../Images/todoApp.jpg'
+import GuessTheNumberImage from '../Images/GuessTheNumberGame.jpg'
 
 const Projects = () => {
     return(
@@ -56,6 +57,17 @@ const Projects = () => {
                         </div>
                         <div className="card-body">
                                 <h3>ToDo List</h3>
+                            </div>
+                    </div>
+
+                    <div className="col">
+                        <div className="card shadow-lg">
+                        <a href="https://qunnderrie1.github.io/GuessTheNumberApp/" >
+                        <img src={GuessTheNumberImage}  />
+                        </a>
+                        </div>
+                        <div className="card-body">
+                                <h3>Guess The Number</h3>
                             </div>
                     </div>
 
